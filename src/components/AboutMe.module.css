@@ -1,0 +1,17 @@
+.mainContainer {
+  margin-top: 80px;
+  max-height: 600px;
+}
+.wrapper {
+  
+  width: 90vw;
+  display: flex;
+  justify-content: space-between;
+}
+
+h1 {
+  text-align: start;
+  margin: 20px;
+  color:#0a2e41;
+  font-size: xx-large;
+}
